@@ -4,6 +4,6 @@ COPY . /app
 WORKDIR /app
 RUN make
 
-CMD [./heya]
+CMD ./heya
 
 
