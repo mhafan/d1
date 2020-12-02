@@ -1,3 +1,3 @@
 FROM alpine
 
-CMD [echo helloya]
+CMD echo helloya
