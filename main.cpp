@@ -2,5 +2,5 @@
 
 int main()
 {
-  printf("pokus: Helloyayayyayay\n");
+  printf("pokus-ZNOVVA: Helloyayayyayay\n");
 }
