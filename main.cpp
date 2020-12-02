@@ -2,5 +2,5 @@
 
 int main()
 {
-printf("Helloyayayyayay\n");
+printf("------ Helloyayayyayay ------\n");
 }
