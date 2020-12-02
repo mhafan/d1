@@ -1,4 +1,5 @@
 FROM alpine
 
-CMD echo Jak se mate
+CMD echo Jak se mate pejsci
+
 
