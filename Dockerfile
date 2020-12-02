@@ -1,5 +1,9 @@
-FROM alpine
+FROM mhafan/dockerbase
 
-CMD echo Jak se mate pejsci
+COPY . /app
+WORKDIR /app
+RUN make
+
+CMD [./heya]
 
 
